@@ -1,0 +1,7 @@
+.deck{ 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+background-color: rgb(103, 28, 28);
+}
+
